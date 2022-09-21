@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Prueva
 Prueba1
 Prueba2
+=======
+Prueba
+>>>>>>> ramaa
