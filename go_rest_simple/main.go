@@ -11,7 +11,7 @@ import (
 	"github.com/gorilla/mux"
 )
 
-// Types
+// Types fail
 type task struct {
 	ID      int    `json:"ID"`
 	Name    string `json:"Name"`
